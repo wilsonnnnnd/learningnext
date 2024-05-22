@@ -1,4 +1,4 @@
-import { notFound } from "Next/navigation";
+import { notFound } from "next/navigation";
 export default function ReviewProductDetails({
     params,
 }: {
